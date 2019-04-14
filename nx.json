@@ -1,0 +1,24 @@
+{
+  "npmScope": "npm",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "testapp": {
+      "tags": []
+    },
+    "testapp-e2e": {
+      "tags": []
+    },
+    "testapp1": {
+      "tags": []
+    },
+    "testapp1-e2e": {
+      "tags": []
+    }
+  }
+}
